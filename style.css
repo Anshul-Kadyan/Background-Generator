@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 0.5em;
+  text-decoration: white;
+  background-image: linear-gradient(to right, #00ffff, #ff00ff);
+}
+h1,
+h2,
+h5 {
+  color: aliceblue;
+}
+h1 {
+  font-size: 3em;
+}
